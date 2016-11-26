@@ -34,4 +34,9 @@ body {
 .Alignleft{
       text-align: left; 
 }
+.footer,
+.push {
+  height: 50px;
+}
+
 
